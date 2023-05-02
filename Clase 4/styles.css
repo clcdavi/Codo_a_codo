@@ -1,0 +1,35 @@
+/* colores */
+/* formas de utilizar colores
+nombres
+valores hezadecimales
+valores rgba
+valores hsl */
+
+body{
+    background-color: rgb(53, 68, 92);
+}
+h1{
+    color: rgb(227, 243, 54);
+}
+h2{
+    color: rgba(52, 231, 240, 0.596);
+}
+p{
+    color: hsla(61, 63%, 47%, 0.739);
+}
+
+/* propiedades de texto */
+p{
+    text-align: center;
+    line-height: 22px;
+    font-size: 20px;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+h2{
+    text-decoration: overline;
+}
+
+.nav a{
+    text-decoration: none;
+}

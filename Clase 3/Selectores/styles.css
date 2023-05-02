@@ -1,0 +1,22 @@
+/* formas de hacer comentarios */
+
+/* selectores universales */
+
+* {
+    font-family: cursive;
+    font-style: italic;
+}
+
+/* selector de tipo */
+h2 {
+    color: brown;
+}
+
+/* selector de clase */
+.pe2 {
+    color: blue;
+}
+.pe3{
+    font-size: 22px;
+    color: blueviolet;
+}
